@@ -1,1 +1,1 @@
-[🔗 View dashboard here]: https://app.powerbi.com/view?r=eyJrIjoiMmMyOTYxZjctOWM0Ny00Njc1LTllNmQtY2MyNjA4OGRiZTI1IiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9&pageName=5c63183ffbd6debdbd43
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-Click%20Here-blue)](https://app.powerbi.com/view?r=eyJrIjoiMmMyOTYxZjctOWM0Ny00Njc1LTllNmQtY2MyNjA4OGRiZTI1IiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9&pageName=5c63183ffbd6debdbd43)
